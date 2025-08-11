@@ -1,0 +1,6 @@
+[
+  {"name": "Ali", "role": "Frontend", "skills": ["Flutter", "Dart", "UI"], "extra": {}},
+  {"name": "Sara", "role": "ML Engineer", "skills": ["Python", "scikit-learn", "AI"], "extra": {}},
+  {"name": "Usman", "role": "Backend", "skills": ["Firebase", "Node.js", "APIs"], "extra": {}},
+  {"name": "Ayesha", "role": "Designer", "skills": ["Figma", "UI/UX"], "extra": {}}
+]
