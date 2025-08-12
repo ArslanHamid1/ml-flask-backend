@@ -5,3 +5,4 @@ numpy
 pandas
 joblib
 flask-cors
+firebase-admin==6.6.0
